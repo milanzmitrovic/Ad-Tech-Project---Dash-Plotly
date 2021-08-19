@@ -70,8 +70,3 @@ to see in hierarchical diagram.
 - Raw data can be found *[here](https://github.com/milanzmitrovic/Ad-Tech-Project---Dash-Plotly/tree/master/data)*.
 
 - Complete description of dataset can be found on Kaggle website by clicking *[here](https://www.kaggle.com/vaishnavkapil/adtech)*.
-
-
-
-
-
