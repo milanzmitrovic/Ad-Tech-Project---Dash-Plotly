@@ -3,8 +3,6 @@
 
 ### Dashboard preview can be found using this link *[AdTech Dashboard](https://github.com/milanzmitrovic/Ad-Tech-Project---Dash-Plotly/blob/master/Dash.pdf)*.
 
-![alt text](https://github.com/milanzmitrovic/Ad-Tech-Project---Dash-Plotly/blob/master/Dash.pdf)
-
 
 ## Metrics:
 
