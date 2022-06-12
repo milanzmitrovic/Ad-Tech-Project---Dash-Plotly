@@ -73,6 +73,8 @@ to see in hierarchical diagram.
 - Complete description of dataset can be found on Kaggle website by clicking *[here](https://www.kaggle.com/vaishnavkapil/adtech)*.
 
 
+## This is preview of dashboard
+
 ![alt text](https://github.com/milanzmitrovic/Ad-Tech-Project---Dash-Plotly/blob/master/Dash-1.png)
 
 
