@@ -78,3 +78,11 @@ to see in hierarchical diagram.
 ![alt text](https://github.com/milanzmitrovic/Ad-Tech-Project---Dash-Plotly/blob/master/Dash-1.png)
 
 
+
+
+
+https://user-images.githubusercontent.com/58112365/190416346-62f3b1cf-e3e7-486b-a1bb-6e5d00976f35.mov
+
+
+
+
